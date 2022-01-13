@@ -1,5 +1,5 @@
 <bug_report>
-  <bug_id number="true">1</bug_id>
+  <bug_id_number="true">1</bug_id>
   <project>application_1</project>
   <title>invoice cannot be printed by the user</title>
   <summary>invoice cannot be printed by the user in application_1 when the user presses 'Print' button on main panel</summary>
