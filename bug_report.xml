@@ -1,0 +1,22 @@
+<bug_report>
+  <bug_id number="true">1</bug_id>
+  <project>application_1</project>
+  <title>invoice cannot be printed by the user</title>
+  <summary>invoice cannot be printed by the user in application_1 when the user presses 'Print' button on main panel</summary>
+  <environment>
+    <device>HomePC</device>
+    <OS>Windows_10</OS>
+    <version>12SRE12</version>
+  </environment>
+  <steps_to_reproduce>
+    <step1>open 'application_1'</step1>
+    <step2>press 'create_invoice' button</step2>
+    <step3>press 'print_invoice' button</step3>
+  </steps_to_reproduce>
+  <attachment>video</attachment>
+  <actual_result>nothing happens when button is pressed</actual_result>
+  <expected_result>invoice_printed</expected_result>
+  <priority>critical</priority>
+  <assignee>Igor</assignee>
+  <reporter>Igor</reporter>
+</bug_report>
